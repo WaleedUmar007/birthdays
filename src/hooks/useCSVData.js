@@ -57,12 +57,13 @@ September,Nani ,Barsi,4th September
 ,Phupho Rizwana,Wedding ,27th September
 October ,Sadia Umar,Birthday,1st October
 ,Usama Nawaz,Wedding,8th October
-,Phupho Rizwana,Birthday,21st October 
+,Phupho Rizwana,Birthday,21st October
+,Rizwan Shahid,Birthday,2nd November
 November,Hina ,Birthday,3rd November
 ,Ahmad Shujat,Birthday,4th November
 ,Ashfaq,Wedding,11th November
 ,Umar Farooq,Wedding,14th November
-,Shujat,Wedding,15th November
+,Shujat,Birthday,15th November
 ,Hamdan,Wedding,28th November
 ,Shafqat,Wedding,26th November
 ,Khala Shaista,Birthday,27th November
